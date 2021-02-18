@@ -42,7 +42,7 @@ React.js, Vue.js, MobX, GraphQL
 
 ### Server infrastructure
 
-Docker, Kubernetes, VMware ESXi, Citrix XenServer / XCP-ng, Microsoft Hyper-V
+Docker, Kubernetes, Serverless, VMware ESXi, Citrix XenServer / XCP-ng, Microsoft Hyper-V
 
 ### Crawling Framework
 
@@ -64,4 +64,4 @@ Mysql / MariaDB, Prisma 1 & 2, MongoDB, OracleDB, SQLite
 
 📞 Telegram [danieluhm2004](https://t.me/danieluhm2004)
 
-🕹️ Discord [엄다니엘#0867](https://discordapp.com/users/269459215637020672)
+🕹️ Discord [엄다니엘#9999](https://discordapp.com/users/269459215637020672)
