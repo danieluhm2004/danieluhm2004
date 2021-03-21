@@ -1,36 +1,36 @@
-# 👋 Hey!
+# 👋 반가워요!
 
-Hello. My name is Daniel Uhm.
+안녕하세요. 엄다니엘입니다.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=danieluhm2004&count_private=true&show_icons=true&theme=dracula)
 
-> 잠깐만요! 한글이 편하신가요? [여기를 눌러주세요.](https://github.com/danieluhm2004/danieluhm2004/README_ko.md)
+> Wait a minute. Are you comfortable with English? [Please click here.](https://github.com/danieluhm2004/danieluhm2004/README.md)
 
-### Differently from others, Diferentemente
+### 남들과는 다르게, Diferentemente
 
-Unlike others, I am running toward the things I want to do after finishing middle school and high school first. 🏃‍♂️
+남들과 다르게 중학교와 고등학교를 먼저 끝내고 해보고 싶은 것들을 향해 달려가고 있어요. 🏃‍♂️
 
-### The joy of discovery, Descoberta
+### 발견의 즐거움, Descoberta
 
-I like new things over technology! There is nothing more enjoyable than challenging something new. Leave the spirit of challenge to me. 🎉
+기술보다 새로운 것을 좋아해요! 새로운 것에 도전하는 것만큼 즐거운 것은 없어요. 도전 정신만큼은 저에게 맡기세요. 🎉
 
-### Creation from chaos, Criação
+### 혼돈에서 찾아온 창조, Criação
 
-If it's good to adapt to something new, I also like to make it. I think making it my own is the most important thing. ✍️
+새로운 것에 적응하는 것도 좋다면 만드는 것도 좋아해요. 무엇보다 나의 것으로 만드는 것이 제일 중요하다고 생각해요. ✍️
 
 # 🎓 School
 
 ![CUK.EDU](./assets/cuk.png)
 
-### Korea Cyber University
+### 고려사이버대학교
 
-2nd grade | Business Administration
+2학년 | Business Administration
 
 **2019.06 ~ NOW**
 
 # 📚 Stack
 
-I've gathered things I'm confident about.
+제가 자신있는 것들을 모아봤어요.
 
 ### Programming Languages
 
@@ -58,7 +58,7 @@ Mysql / MariaDB, Prisma 1 & 2, TypeORM, MongoDB, OracleDB, SQLite
 
 # 📞 Contact
 
-Are you more curious about me? Please contact me lightly. 🤝
+제가 더 궁금하시나요? 가볍게 연락주세요. 🤝
 
 📮 Mail [iam@dan.al](mailto:iam@dan.al)
 
