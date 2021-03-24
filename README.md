@@ -4,7 +4,7 @@ Hello. My name is Daniel Uhm.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=danieluhm2004&count_private=true&show_icons=true&theme=dracula)
 
-> 잠깐만요! 한글이 편하신가요? [여기를 눌러주세요.](https://github.com/danieluhm2004/danieluhm2004/README_ko.md)
+> 잠깐만요! 한글이 편하신가요? [여기를 눌러주세요.](https://github.com/danieluhm2004/danieluhm2004/blob/main/README_ko.md)
 
 ### Differently from others, Diferentemente
 
