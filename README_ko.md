@@ -4,7 +4,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=danieluhm2004&count_private=true&show_icons=true&theme=dracula)
 
-> Wait a minute. Are you comfortable with English? [Please click here.](https://github.com/danieluhm2004/danieluhm2004/README.md)
+> Wait a minute. Are you comfortable with English? [Please click here.](https://github.com/danieluhm2004/danieluhm2004/blob/main/README.md)
 
 ### 남들과는 다르게, Diferentemente
 
