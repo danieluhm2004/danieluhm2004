@@ -18,16 +18,6 @@
 
 새로운 것에 적응하는 것도 좋다면 만드는 것도 좋아해요. 무엇보다 나의 것으로 만드는 것이 제일 중요하다고 생각해요. ✍️
 
-# 🎓 School
-
-![CUK.EDU](./assets/cuk.png)
-
-### 고려사이버대학교
-
-2학년 | Business Administration
-
-**2019.06 ~ NOW**
-
 # 📚 Stack
 
 제가 자신있는 것들을 모아봤어요.
@@ -68,4 +58,4 @@ Mysql / MariaDB, Prisma 1 & 2, TypeORM, MongoDB, OracleDB, SQLite
 
 📞 Telegram [danieluhm2004](https://t.me/danieluhm2004)
 
-🕹️ Discord [엄다니엘#3793](https://discordapp.com/users/269459215637020672)
+🕹️ Discord [Daniel Uhm#3793](https://discordapp.com/users/269459215637020672)

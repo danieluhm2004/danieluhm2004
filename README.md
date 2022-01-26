@@ -18,16 +18,6 @@ I like new things over technology! There is nothing more enjoyable than challeng
 
 If it's good to adapt to something new, I also like to make it. I think making it my own is the most important thing. ✍️
 
-# 🎓 School
-
-![CUK.EDU](./assets/cuk.png)
-
-### Korea Cyber University
-
-2nd grade | Business Administration
-
-**2019.06 ~ NOW**
-
 # 📚 Stack
 
 I've gathered things I'm confident about.
@@ -68,4 +58,4 @@ Are you more curious about me? Please contact me lightly. 🤝
 
 📞 Telegram [danieluhm2004](https://t.me/danieluhm2004)
 
-🕹️ Discord [엄다니엘#3793](https://discordapp.com/users/269459215637020672)
+🕹️ Discord [Daniel Uhm#3793](https://discordapp.com/users/269459215637020672)
